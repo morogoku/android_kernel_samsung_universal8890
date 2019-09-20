@@ -11,9 +11,11 @@ export CROSS_COMPILE=/home/moro/kernel/toolchains/aarch64-linux-android-4.9/bin/
 
 DEFCONFIG=exynos8890-hero2lte_defconfig
 
-export ANDROID_MAJOR_VERSION=p 
-export ANDROID_VERSION=90000 
-export PLATFORM_VERSION=9.0.0
+export ANDROID_MAJOR_VERSION=o 
+export ANDROID_VERSION=80000 
+export PLATFORM_VERSION=8.0.0
+
+export LOCALVERSION="twrp-r03"
 
 (
 
