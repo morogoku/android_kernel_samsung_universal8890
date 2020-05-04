@@ -25,7 +25,7 @@ export ANDROID_MAJOR_VERSION=o
 export ANDROID_VERSION=80000 
 export PLATFORM_VERSION=8.0.0
 
-export LOCALVERSION="twrp-r04"
+export LOCALVERSION="twrp-r05"
 
 (
 
