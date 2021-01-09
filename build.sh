@@ -38,7 +38,7 @@ export ANDROID_MAJOR_VERSION=p
 export ANDROID_VERSION=90000 
 export PLATFORM_VERSION=9.0.0
 
-export LOCALVERSION="twrp"
+export LOCALVERSION="MoRo-twrp-9-r06"
 
 (
 
